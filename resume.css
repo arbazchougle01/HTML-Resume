@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 50px;
+    border: 2px solid black;
+}
+header{
+    text-align: center;
+
+}
+h1{
+    font-size: xx-large;
+    color: blue;
+}
+h2{
+    color: blue;
+}
+header p{
+font-size: larger;
+}
